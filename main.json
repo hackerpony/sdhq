@@ -169,7 +169,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"sdhq_klo.json#start"
+                 "value":"klo\/sdhq_klo.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
