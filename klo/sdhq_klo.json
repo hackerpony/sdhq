@@ -19,7 +19,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"podcast_plotzlich_backer_episode_1_roggensauerteig.mp3"
+                 "value":"klo\/podcast_plotzlich_backer_episode_1_roggensauerteig.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"WR1065_Sauerteig.mp3"
+                 "value":"klo\/WR1065_Sauerteig.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
