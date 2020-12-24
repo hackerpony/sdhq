@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ploetzblog.de\/2013\/07\/27\/dresdener-buchteln\/"
+                 "value":"https:\/\/www.ploetzblog.de\/2013\/04\/13\/leserwunsch-daenisches-roggenbrot-rugbrod\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.ploetzblog.de\/2012\/05\/19\/norwegische-zimtknoten-kanelknuter\/"
+                 "value":"https:\/\/www.ploetzblog.de\/2020\/09\/19\/roggenkrustenbrot\/"
                 }],
          "type":"tilelayer",
          "visible":true,
