@@ -19,7 +19,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"klo\/podcast_plotzlich_backer_episode_1_roggensauerteig.mp3"
+                 "value":"audio\/podcast_plotzlich_backer_episode_1_roggensauerteig.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"klo\/WR1065_Sauerteig.mp3"
+                 "value":"audio\/WR1065_Sauerteig.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -162,7 +162,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"AceSet-Hospital.png",
+         "image":"tiles\/AceSet-Hospital.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -175,7 +175,7 @@
         {
          "columns":16,
          "firstgid":257,
-         "image":"c3gelb.png",
+         "image":"tiles\/c3gelb.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -188,7 +188,7 @@
         {
          "columns":16,
          "firstgid":1281,
-         "image":"cert_safety.png",
+         "image":"tiles\/cert_safety.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -201,7 +201,7 @@
         {
          "columns":12,
          "firstgid":2305,
-         "image":"fairydust.png",
+         "image":"tiles\/fairydust.png",
          "imageheight":576,
          "imagewidth":384,
          "margin":0,
@@ -214,7 +214,7 @@
         {
          "columns":9,
          "firstgid":2521,
-         "image":"mapUtilities.png",
+         "image":"tiles\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -237,7 +237,7 @@
         {
          "columns":16,
          "firstgid":2530,
-         "image":"rc3.png",
+         "image":"tiles\/rc3.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -250,7 +250,7 @@
         {
          "columns":16,
          "firstgid":3554,
-         "image":"rc3-mullana-colors.png",
+         "image":"tiles\/rc3-mullana-colors.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
