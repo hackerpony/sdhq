@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<lobby>/generic-tech.json#start_sdhq}"
                 }],
          "type":"tilelayer",
          "visible":true,
