@@ -140,7 +140,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"{<c3woc>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -176,7 +176,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/klo\/sdhq_klo.json#start"
+                 "value":"klo\/sdhq_klo.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
