@@ -104,7 +104,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/rc3.world\/rc3\/assembly\/sdhq\/"
                 }],
          "type":"tilelayer",
          "visible":true,
